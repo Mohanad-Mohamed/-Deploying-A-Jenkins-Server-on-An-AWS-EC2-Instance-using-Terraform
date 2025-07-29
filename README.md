@@ -37,5 +37,3 @@ This repository contains Infrastructure as Code (IaC) using Terraform to automat
 ## Contributing
 Feel free to contribute to this project by submitting pull requests or reporting issues.
 
-## License
-This project is open source and available under the MIT License.
