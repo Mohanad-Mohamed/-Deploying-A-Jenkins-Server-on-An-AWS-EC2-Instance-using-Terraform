@@ -33,6 +33,3 @@ This repository contains Infrastructure as Code (IaC) using Terraform to automat
 - Always review the plan before applying changes
 - Keep credentials secure and never commit them to version control
 - Use variables and state files appropriately
-
-## Contributing
-Feel free to contribute to this project by submitting pull requests or reporting issues.
